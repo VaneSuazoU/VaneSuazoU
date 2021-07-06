@@ -1,4 +1,4 @@
-<img src="./Frontend Developer.gif" alt="Banner"/>
+<img src="./Frontend Developer (1).gif" alt="Banner"/>
 
 ### Hello world!! 👋🌎 
 
