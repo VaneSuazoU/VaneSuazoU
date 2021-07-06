@@ -1,10 +1,11 @@
 ### Hello world 👋🌎
 
+Soy Vanessa!
+Frontend Developer.
 
-**VaneSuazoU/VaneSuazoU** Frontend Developer
 
-- 🔭 I’m currently studying at Laboratoria 🤓
-- 🌱 I’m currently learning React 
-- 💬 Ask me about https://www.linkedin.com/in/vanesuazou/
-- 📫 How to reach me: vsuazo.93@gmail.com
-- ⚡ Fun fact: Potterhead 🧙‍♂️ - CatLover 😺💕
+- 🔭 Actualmente estoy estudiando en Laboratoria 🤓
+- 🌱 Ahora estoy aprendiendo React 💻
+- 💬 LinkedIn: https://www.linkedin.com/in/vanesuazou/
+- 📫 Cómo contactarme: vsuazo.93@gmail.com
+- ⚡ Dato curioso: Potterhead 🧙‍♂️ - CatLover 😺💕 - Donante 💉🩸 
