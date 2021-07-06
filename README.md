@@ -1,3 +1,5 @@
+<img src="./Frontend Developer.gif" alt="Banner"/>
+
 ### Hello world!! 👋🌎 
 
 Soy Vanessa!
